@@ -3,9 +3,6 @@
 ### Basics algorithms and Data Structures 
 #### Master of degree from university
 
-## Візуалізація
-[Tree Visualization](doc/binary_tree.pdf)
-
 ## Завдання
 
 Уявіть, що вам на технічному інтерв'ю дають наступну задачу, яку треба розв'язати за допомогою купи.
